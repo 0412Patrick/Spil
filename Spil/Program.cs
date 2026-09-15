@@ -5,3 +5,4 @@
 //test 4
 //test 5
 // test 6 (første med ruleset)
+// test 7 - nyt take
